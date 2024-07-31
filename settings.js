@@ -1,37 +1,37 @@
 const chalk = require("chalk")
 const fs = require("fs")
 //aumto presence update
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = '@jr_danzz'
-global.yt = 'Danz Nano'
-global.ttowner = '@danznano'
-global.ownername = '🐺 DanzXnano 🐺'
-global.owner = ['6285892928715'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285892928715'
+global.ig = '@ScytherrBot'
+global.yt = 'ScytherrBot'
+global.ttowner = '@scytherBot'
+global.ownername = '🐺 ScytherBot 🐺'
+global.owner = ['6281326753887'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6281326753887'
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 //=============================================\\
-global.botname = "NanoBotz ID"
-global.ownernumber = '6285892928715'
-global.botnumber = '6283113267224'
-global.ownername = 'DanzXnano'
-global.ownerNumber = ["6285892928715@s.whatsapp.net"]
+global.botname = "Scytherr BOT"
+global.ownernumber = '6281326753887'
+global.botnumber = '6281326753887'
+global.ownername = 'Alexanderr'
+global.ownerNumber = ["6281326753887@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
-global.wagc = "https://chat.whatsapp.com/KWbm1aJrld679P1YMFespR"
-global.saluran = "https://whatsapp.com/channel/0029Vainc1WHFxP6JCHZJx06"
+global.wagc = "https://chat.whatsapp.com/Bse2WLBExvT1wj4GvcFA6M"
+global.saluran = "https://whatsapp.com/channel/"
 global.themeemoji = '🪀'
-global.wm = "NanoBotz ID| bot wangsap gg"
+global.wm = "Scytherr Bot| AKHAKH"
 global.botscript = 'Dah gede nyari sc 🗿🖕' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\nCreate by NanoBotz ID\nNo hape/wa : 6283113267224"
-global.creator = "6285892928715@s.whatsapp.net"
+global.author = "\n\n\n\n\nCreate by Scytherr ID\nNo hape/wa : 6281326753887"
+global.creator = "6281326753887@s.whatsapp.net"
 //======================== CPANEL FITUR ===========================\\
 global.domain = 'https://server1.joshuastore.biz.id' // Isi Domain Lu jangan kasih tanda / di akhir link
 global.apikey = 'ptla_7lFLXckkwYSWzihoztfEaoxqGS5l3HLvL30wWASXyJq' // Isi Apikey Plta Lu
