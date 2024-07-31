@@ -19,7 +19,7 @@ global.location = 'Indonesia'
 //=============================================\\
 global.botname = "Scytherr BOT"
 global.ownernumber = '6281326753887'
-global.botnumber = '6281326753887'
+global.botnumber = '6283133482337'
 global.ownername = 'Alexanderr'
 global.ownerNumber = ["6281326753887@s.whatsapp.net"]
 global.ownerweb = ""
